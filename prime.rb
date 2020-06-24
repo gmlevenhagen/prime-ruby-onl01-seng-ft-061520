@@ -7,4 +7,4 @@ def is_prime(number)
   true
 end
 
-is_prime
+is_prime(2)
