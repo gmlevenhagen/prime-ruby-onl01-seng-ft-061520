@@ -6,3 +6,5 @@ def is_prime(number)
   end
   true
 end
+
+is_prime
